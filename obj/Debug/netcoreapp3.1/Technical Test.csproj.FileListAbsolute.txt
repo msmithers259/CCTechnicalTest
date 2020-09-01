@@ -1,0 +1,15 @@
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.exe
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.deps.json
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.runtimeconfig.json
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.runtimeconfig.dev.json
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.dll
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Technical Test.pdb
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.csprojAssemblyReference.cache
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.AssemblyInfoInputs.cache
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.AssemblyInfo.cs
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.csproj.CoreCompileInputs.cache
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.csproj.CopyComplete
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.dll
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.pdb
+C:\Aims and Projects\Job Search\Cloud Commerce\Technical Test\obj\Debug\netcoreapp3.1\Technical Test.genruntimeconfig.cache

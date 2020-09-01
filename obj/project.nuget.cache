@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6zWyzOGb9ANChbwhhyTfmxCpW6yHCIc6Y7ba4huCYwtFFJmZ9hajVOflODmnv43h5Skt7xe3z/RTA1cOn+z+A==",
+  "success": true,
+  "projectFilePath": "C:\\Aims and Projects\\Job Search\\Cloud Commerce\\Technical Test\\Technical Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark Smithers\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
